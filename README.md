@@ -83,6 +83,11 @@
 - AI-powered unit test creation
 - [Official Site](https://tabnine.com)
 
+### agenttrace
+**Best for:** AI coding agent session diagnostics
+- Compare local agent cost, token usage, elapsed time, and slow-run health
+- [GitHub](https://github.com/luoyuctl/agenttrace)
+
 ## 📚 Resources
 
 ### Learning
